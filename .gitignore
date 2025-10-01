@@ -85,3 +85,102 @@ Desktop.ini
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.dbmdl
+*.log
+*.ldf
+*.mdf
+*.psess
+*.vsp
+*.vspscc
+*.vssscc
+*.vssscc
+*.scc
+*.ncb
+*.sbr
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.pidb
+*.svclog
+*.gpState
+
+# Visual Studio Build Output
+[Bb]in/
+[Oo]bj/
+TestResults/
+out/
+*.exe
+*.dll
+*.lib
+*.exp
+*.tlb
+*.ocx
+*.bsc
+*.ilk
+*.iobj
+*.ipdb
+
+# Visual Studio Code Analysis
+*.codeanalysis
+
+# Visual Studio Web Projects
+App_Data/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Backup & Report files
+*.bak
+*.backup
+*.rdl.data
+*.report
+*.rptproj.*
+
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# Azure Stream Analytics
+ASALocalRun/
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# Node.js Tools for Visual Studio
+node_modules/
+npm-debug.log
+
+# Others
+*.vsix
+*.vscode/
