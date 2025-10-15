@@ -1,0 +1,9 @@
+{
+    "ArtificerClass": {
+        "name": "Artificer",
+        "hit dice": {
+            "number": 1,
+            "faces": 8
+        }
+    }
+}
